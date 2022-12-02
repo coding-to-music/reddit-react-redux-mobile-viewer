@@ -1,5 +1,5 @@
 {
-  "name": "kind-stranger-react",
+  "name": "reddit-react-redux-mobile-viewer",
   "version": "2.5.0",
   "description": "Kind Stranger. Reddit Viewer written using React",
   "main": "./build/index.js",
@@ -7,6 +7,7 @@
     "build": "webpack --optimization-minimize",
     "start": "webpack --watch",
     "dev-server": "webpack serve",
+    "deploy": "git add . && git commit -m Build && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "illfixit",
