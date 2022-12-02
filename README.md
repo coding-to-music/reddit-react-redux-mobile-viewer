@@ -8,6 +8,8 @@ https://reddit-react-redux-mobile-viewer.vercel.app
 
 From / By https://github.com/illfixit/kind-stranger
 
+https://illfixit.github.io/kind-stranger/
+
 ## Environment variables:
 
 ```java
