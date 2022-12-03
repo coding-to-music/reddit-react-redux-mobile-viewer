@@ -7,7 +7,7 @@
     "build": "webpack --optimization-minimize",
     "start": "webpack --watch",
     "dev-server": "webpack serve",
-    "deploy": "npm run ghdeploy && git add . && git commit -m Build && git push",
+    "deploy": "npm run predeploy && npm run ghdeploy && git add . && git commit -m Build && git push",
     "predeploy": "npm run build",
     "ghdeploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
