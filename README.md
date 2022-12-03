@@ -10,11 +10,11 @@ https://github.com/coding-to-music/reddit-react-redux-mobile-viewer
 
 https://reddit-react-redux-mobile-viewer.vercel.app
 
-https://illfixit.github.io/reddit-react-redux-mobile-viewer
+https://coding-to-music.github.io/reddit-react-redux-mobile-viewer
 
 From / By https://github.com/illfixit/kind-stranger
 
-https://coding-to-music.github.io/kind-stranger/
+https://illfixit.github.io/kind-stranger/
 
 ## Environment variables:
 
