@@ -8,6 +8,8 @@
     "start": "webpack --watch",
     "dev-server": "webpack serve",
     "deploy": "git add . && git commit -m Build && git push",
+    "predeploy": "npm run build",
+    "ghdeploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "illfixit",
@@ -31,6 +33,7 @@
     "babel-core": "^6.0.20",
     "babel-loader": "^8.2.2",
     "babel-preset-env": "^1.7.0",
+    "gh-pages": "^4.0.0",
     "webpack": "^5.28.0",
     "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.9.2",
