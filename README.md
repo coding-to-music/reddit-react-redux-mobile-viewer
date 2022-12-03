@@ -14,7 +14,7 @@ https://illfixit.github.io/reddit-react-redux-mobile-viewer
 
 From / By https://github.com/illfixit/kind-stranger
 
-https://illfixit.github.io/kind-stranger/
+https://coding-to-music.github.io/kind-stranger/
 
 ## Environment variables:
 
