@@ -2,6 +2,8 @@
 
 not sure how to deploy a react webpack app to vercel...
 
+Not sure the build directory - Vercel says "no directory named public"
+
 # 🚀 Minimalistic React + Redux Mobile Reddit Viewer 🚀
 
 https://github.com/coding-to-music/reddit-react-redux-mobile-viewer
