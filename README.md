@@ -1,8 +1,10 @@
 # reddit-react-redux-mobile-viewer
 
-not sure how to deploy a react webpack app to vercel...
+not sure how to deploy a react webpack app to vercel or gh-pages
 
 Not sure the build directory - Vercel says "no directory named public"
+
+Does not run in Dev or Vercel or GitHub Pages - not sure how to get this working...
 
 # 🚀 Minimalistic React + Redux Mobile Reddit Viewer 🚀
 
