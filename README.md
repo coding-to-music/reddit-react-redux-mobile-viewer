@@ -1,5 +1,7 @@
 # reddit-react-redux-mobile-viewer
 
+not sure how to deploy a react webpack app to vercel...
+
 # 🚀 Minimalistic React + Redux Mobile Reddit Viewer 🚀
 
 https://github.com/coding-to-music/reddit-react-redux-mobile-viewer
